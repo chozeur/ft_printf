@@ -1,4 +1,4 @@
-# ft_printf ✅ 100 ✅
+# ft_printf
 
 Personal implementation of (basic) printf C function.
 
